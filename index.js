@@ -100,6 +100,7 @@ module.exports = {
   isNil: require('./src/isNil'),
   join: require('./src/join'),
   juxt: require('./src/juxt'),
+  keyMatch: require('./src/keyMatch'),
   keys: require('./src/keys'),
   keysIn: require('./src/keysIn'),
   last: require('./src/last'),
